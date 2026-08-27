@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aurevant Haute Horlogerie",
+  "description": "A luxury Swiss haute horlogerie digital maison showcasing masterwork collections, interactive technical specifications, bespoke consultations, and the Vanguard client dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
